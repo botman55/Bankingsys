@@ -36,7 +36,7 @@ if(isset($_SESSION['staff_login'])){
         <input class="password" type="password" name="password" required/><br>
         <input class="login-btn" type="submit" name="staff_login-btn" value="LOGIN"/><br>
         <a class="help"><label class="label_help" >FORGET PASSWORD ?</label></a>
-            <img class="userloginimg" src="img/home-logo-hi.png" height="90px" width="90px">
+            <img class="userloginimg" src="img/staff.png" height="90px" width="90px">
         </div>
                 </div>
 							</div>  </div>

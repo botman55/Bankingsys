@@ -8,14 +8,14 @@
 }
 
 .cust_statement_container {
-  /* //background-color: burlywood; */
+  background-color: #E9F8F9;
   width: 80%;
   margin: 2% auto;
   height: 70%;
   /* //overflow-y:auto; */
   overflow-x: hidden;
-  border: 1px ligh black;
-  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
 }
 
 .cust_statement {

@@ -27,7 +27,7 @@
 				 <input type="text" name="citizenship" placeholder="Aadhaar No" required />
 				 <input class="address" type="text" name="homeaddrs" placeholder="Home Address" required  />
 				 <input class="address" type="text" name="officeaddrs" placeholder="Office Address" />
-				 <input type="text" name="country" placeholder="US" value="US" readonly="readonly" />
+				 <input type="text" name="country" placeholder="India" value="India" readonly="readonly" />
 
 
 
@@ -67,40 +67,9 @@
 				</select>
 
 
-
-				 <select name ="city" required >
-					  <option class="default" value="" disabled selected>City</option>
-					  <option value="Los Angeles">Los Angeles</option>
-					  <option value="San Diego">San Diego</option>
-					  <option value="Fresno">Fresno</option>
-					  <option value="Houston">Houston</option>
-					  <option value="Austin">Austin</option>
-					  <option value="Dallas">Dallas</option>
-					  <option value="Texas City">Texas City</option>
-					  <option value="Miami">Miami</option>
-					  <option value="Orlando">Orlando</option>
-					  <option value="Jacksonville">Jacksonville</option>
-					  <option value="Seattle">Seattle</option>
-					  <option value="Vancouver">Vancouver</option>
-					  <option value="Olympia">Olympia</option>
-					  <option value="Honolulu">Honolulu</option>
-					  <option value="Hawi">Hawi</option>
-					  <option value="Lahaina">Lahaina</option>
-					  <option value="Anchorage">Anchorage</option>
-					  <option value="Sitka">Sitka</option>
-					  <option value="Seward">Seward</option>
-					  <option value="Richmond">Richmond</option>
-					  <option value="Williamsburg">Williamsburg</option>
-					  <option value="Alexandria">Alexandria</option>
-					  <option value="Boise">Boise</option>
-					  <option value="Twin Falls">Twin Falls</option>
-					  <option value="Moscow">Moscow</option>
-					  
-				</select>
-
-
-
-				 
+				<input type="text" name="city" placeholder="City" required />
+				
+			 
 				 <input type="text" name="pin" placeholder="Pin Code" required />
 				 <input type="text" name="arealoc" placeholder="Area/Locality" required />
 				 <input type="text" name="nominee_name" placeholder="Nominee Name (If any)" />

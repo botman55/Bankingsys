@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="css/header.css">
-        <div class="header_main">
+    <div class="header_main">
 		<div class="navBar">
 			<ul>
 				<li><a href="index.php">Home</a></li>
@@ -9,19 +9,20 @@
 			
 			</ul>
 		</div>
-	 <a href="index.php"><div class="logo-name">
+	 <a href="index.php">
+		<div class="logo-name">
 			<div class="logo">
              <img class="logo_img" src="img/chase.jpg">
 			</div>
 			
 			<div class="name">
-				<h5> Online Banking System</h5></a><br>
-				<h6>In PHP</h6>
+				<h5> LC NetBanking</h5></a><br>
+				
 			</div>
         </div>
             
             
-            <div class="dif_banking">
+        <div class="dif_banking">
 			<div class="retail_banking">
 				<a href="#">Retail Banking</a>
 			</div>

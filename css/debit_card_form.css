@@ -3,7 +3,8 @@
   width: 35%;
   margin: 5% auto;
   /* // border-radius: 5px; */
-  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.6);
+  box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
 }
 
 .debit_card_form_container h3 {
@@ -24,6 +25,9 @@ input[type="date"] {
   width: 60%;
   margin: 1% auto;
   display: block;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  border: none;
 }
 
 .debit_card_form_container input[type="submit"] {
@@ -37,6 +41,7 @@ input[type="date"] {
   margin: 0px auto;
   width: 60%;
   padding: 2%;
+  border-radius: 10px;
   cursor: pointer;
   transition: 0.5s;
 }

@@ -16,16 +16,16 @@ body {
   border-top-right-radius: 20px;
   border-bottom-left-radius: 20px;
   margin-top: 20px;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.1);
   width: 350px;
   height: 600px;
   margin: 0px auto;
-  box-shadow: 2px 2px 5px black;
+  box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.7);;
 }
 .formspace2 {
   border-top-right-radius: 20px;
   width: 350x;
-  background-color: #6474a0;
+  background-color: #6C9BCF;
   height: 300px;
 }
 
@@ -39,7 +39,7 @@ body {
   padding-top: 55px;
   padding-bottom: 55px;
   margin-left: 7%;
-  box-shadow: 2px 2px 2px rgba(97, 97, 97, 0.5);
+  box-shadow: 2px 2px 7px rgba(97, 97, 97, 0.2);
 }
 
 .form .login {

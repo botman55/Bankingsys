@@ -7,7 +7,7 @@ body {
 }
 .header_main {
   width: 100%;
-  background-color: #003344;
+  background-color: #06283D;
 }
 .navbar ul li a {
   padding-left: 10px;
@@ -20,7 +20,7 @@ body {
 }
 
 .navbar ul li a:hover {
-  color: #17c3ba;
+  color: #19A7CE;
 }
 
 .navbar ul {
@@ -35,13 +35,13 @@ body {
   padding: 6px;
 }
 
-.navbar li span {
+/*.navbar li span {
   font-family: verdana;
-}
+}*/
 
 .logo-name {
-  background-color: #004156;
-  height: 100px;
+  background-color: #115173;
+  height: 95px;
 }
 .name h5 {
   color: white;
@@ -66,6 +66,7 @@ body {
 }
 
 .logo {
+  
   border-radius: 20px;
   float: left;
   margin-left: 5.9%;
@@ -73,13 +74,15 @@ body {
   margin-bottom: 5px;
 }
 
-.logo_img {
+.logo img {
+  width: 5em;
+    height: 5em;
   transition-duration: 0.8s;
   border-radius: 20px;
 }
 
 .dif_banking {
-  background-color: #005f7d;
+  background-color: #146C94;
   font-size: 14px;
   color: #fff;
   padding-left: 5%;
@@ -98,7 +101,7 @@ body {
   /* // background-color: black; */
 }
 .dif_banking a:hover {
-  color: #17c3ba;
+  color: #06283D;
 }
 .retail_banking {
   float: left;
@@ -125,8 +128,8 @@ body {
   text-align: center;
 }
 
-.my_form {
-}
+/*.my_form {
+}*/
 .srch {
   margin-left: 65%;
   display: inline;

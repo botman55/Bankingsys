@@ -16,7 +16,9 @@ if(!isset($_SESSION['$cust_acopening'])){
 <title>Confirm</title>
 </head>
 <body>
+<h3>Please Confirm Your Details !</h3>
 <div class="cust_regfrm_cnfrm_container">
+
 <div class="cnfrm_info">
      <span><?php echo "Name : ".$_SESSION['cust_name']."<br>"; ?> </span>
      <span><?php echo "Gender : ".$_SESSION['cust_gender']."<br>"; ?> </span>
