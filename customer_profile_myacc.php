@@ -59,7 +59,7 @@ if($_SESSION['customer_login'] == true)
                 <label>Branch : <?php echo $_SESSION['Branch']; ?></label>
                 <label>Cheque : <?php echo $_SESSION['Cheque']; ?></label>
 
-                <label>Available Balance :$<?php echo $current_bal; ?></label>
+                <label>Available Balance :&#8377;<?php echo $current_bal; ?></label>
                 <label>Mobile No : <?php echo $_SESSION['Mobile_no']; ?></label>
                 
                 <label>Debit Card No : <?php echo $_SESSION['Debit_Card_No']; ?></label>

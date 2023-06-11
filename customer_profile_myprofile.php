@@ -33,6 +33,8 @@ background-color: rgba(5, 21, 71,0.4);
     <label>Name : <?php echo $row['Username']; ?> </label><br>
     <label>Sex : <?php echo $row['Gender']; ?> </label><br>
     <label>Mobile No : <?php echo $row['Mobile_no']; ?> </label><br>
+    <label>DOB : <?php echo$row['DOB']?></label><br>
+    <label>Email : <?php echo$row['Email_ID']?></label><br>
     <label>Landline : <?php echo $row['Landline_no']; ?> </label><br>
     <label>Addresss : <?php echo $row['Home_Addr']; ?> </label><br>
     <label>Currency : <?php echo 'INR' ; ?> </label><br>
