@@ -12,11 +12,12 @@
 	 <a href="index.php">
 		<div class="logo-name">
 			<div class="logo">
-             <img class="logo_img" src="img/chase.jpg">
+             <img class="logo_img" src="img/lc.png">
 			</div>
 			
 			<div class="name">
-				<h5> LC NetBanking</h5></a><br>
+				<h5>LC NetBanking</h5><br>
+			<h7>Your first choice for monetary needs</h7></a><br>
 				
 			</div>
         </div>

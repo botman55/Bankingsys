@@ -40,7 +40,7 @@
     
 </div>
     <div class="copyright">
-        <span>Copyright &copy; 2023 Online Banking System. All rights reserved.</span>
+        <span>Copyright &copy; 2023 LC Banking. All rights reserved.</span>
     </div>
     
     <div class="bestview">

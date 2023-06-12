@@ -24,7 +24,7 @@
 			   <th>DOB</th>
 			   <th>Current Balance</th>
 			   <th>PAN</th>
-			   <th>Citizenship</th>
+			   <th>Aadhar No.</th>
 			   <th>Debit Card No.</th>
 			   <th>CVV</th>
 			   <th>Last_Login</th>
@@ -53,13 +53,13 @@
 			<td>'.$row['Mobile_no'].'</td>
 			<td>'.$row['Email_ID'].'</td>
 			<td>'.$row['DOB'].'</td>
-			<td>$'.$row['Current_Balance'].'</td>
+			<td>&#8377;'.$row['Current_Balance'].'</td>
 			<td>'.$row['PAN'].'</td>
 			<td>'.$row['AADHAAR_NO'].'</td>
 			<td>'.$row['Debit_Card_No'].'</td>
 			<td>'.$row['CVV'].'</td>
 			<td>'.$row['Last_Login'].'</td>
-			<td>$'.$row['LastTransaction'].'</td>
+			<td>&#8377;'.$row['LastTransaction'].'</td>
 			<td>'.$row['Account_Status'].'</td>
 			</tr>';
 	}

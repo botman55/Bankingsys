@@ -17,7 +17,7 @@
             <input type="text" name="mobile" placeholder="Registered Mobile (10 Digit)" required />
             <input type="text" name="pan_no" placeholder="PAN Number" required />
             <input type="text" name="dob" placeholder="Date of Birth" onfocus="(this.type='date')" required />
-            <input type="text" name="last_trans" placeholder="Last Transaction ($)"required />
+            <input type="text" name="last_trans" placeholder="Last Transaction (Rs.)"required />
             <input type="password" name="password" placeholder="Password" minlength=7 required/>
             <input type="password" name="cnfrm_password" placeholder="Confirm Password" required/>
             <input type="submit" name="submit" value="Submit"/>
