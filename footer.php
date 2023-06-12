@@ -15,7 +15,7 @@
         <ul>
             <p>69 LC, Near Tara Public School,</p><p>Chutia, Ranchi 834001</p>
             <p>Phone : +91 7717297714</p>
-            <p> Email: banksys.mgmt@gmail.com</p>
+            <p> Email: financebuddy@gmail.com</p>
             
         </ul>
     </div>
@@ -40,7 +40,7 @@
     
 </div>
     <div class="copyright">
-        <span>Copyright &copy; 2023 LC Banking. All rights reserved.</span>
+        <span>Copyright &copy; 2023 Finacial Buddy. All rights reserved.</span>
     </div>
     
     <div class="bestview">

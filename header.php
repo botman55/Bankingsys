@@ -16,8 +16,8 @@
 			</div>
 			
 			<div class="name">
-				<h5>LC NetBanking</h5><br>
-			<h7>Your first choice for monetary needs</h7></a><br>
+				<h5>Financial Buddy</h5><br>
+			<h7>Just dream and we'll make it happen</h7></a><br>
 				
 			</div>
         </div>
